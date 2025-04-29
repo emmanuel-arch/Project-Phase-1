@@ -89,12 +89,3 @@ For more information or further inquiries, feel free to reach out to me:
 - [kipletinge123@gmail.com](#)
 
 ---
-
-### **Additional Notes**:
-- Ensure that all images referenced in the README are stored in the correct path in the `images/` folder.
-- The README uses simple language and keeps the information accessible, focusing on the visualizations and recommendations for a business audience.
-- Feel free to adjust the **Contact Information** section with your actual details.
-
----
-
-Let me know if this works for you or if you need any changes or further improvements to the **README.md**!
